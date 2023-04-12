@@ -1,2 +1,4 @@
+echo "Hi this is testing going on"
+
 name = $1
 lastname =$2
