@@ -1,7 +1,7 @@
 echo "Hi this is testing going on"
 
-name=first_name
-address=local_address
+name=$1
+address=$2
 
 
 echo "name is $name & address is $address"
