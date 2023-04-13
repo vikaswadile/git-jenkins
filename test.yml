@@ -4,4 +4,4 @@ name=user_name
 address=user_address
 
 
-echo "name is ${user_name} and address is ${user_address}"
+echo name is $name
